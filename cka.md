@@ -3,21 +3,11 @@
 
 ---
 
-##  Domain Weights & Hour Allocation
-
-| # | Module | Theory | Lab | Total | Exam Weight |
-|---|--------|--------|-----|-------|-------------|
-| 1 | Cluster Architecture, Installation & Configuration | 1h | 4h | 5h | 25% |
-| 2 | Workloads & Scheduling | 0.5h | 2.5h | 3h | 15% |
-| 3 | Services & Networking | 1h | 3h | 4h | 20% |
-| 4 | Storage | 0.5h | 1.5h | 2h | 10% |
-| 5 | Troubleshooting | 1h | 5h | 6h | 30% |
-| | **Total** | **4h (20%)** | **16h (80%)** | **20h** | 100% |
 
 ---
 
 ##  Module 1 — Cluster Architecture, Installation & Configuration
-*5 Hours | Exam Weight: 25%*
+ Exam Weight: 25%*
 
 ### Theory
 - 1.1 Kubernetes Control Plane Components
@@ -34,7 +24,7 @@
 ---
 
 ##  Module 2 — Workloads & Scheduling
-*3 Hours | Exam Weight: 15%*
+Exam Weight: 15%*
 
 ### Theory
 - 2.1 Workload Resources — Deployments, DaemonSets, StatefulSets, Jobs, CronJobs
@@ -51,7 +41,7 @@
 ---
 
 ##  Module 3 — Services & Networking
-*4 Hours | Exam Weight: 20%*
+Exam Weight: 20%*
 
 ### Theory
 - 3.1 Service Types — ClusterIP, NodePort, LoadBalancer, ExternalName
@@ -68,7 +58,7 @@
 ---
 
 ##  Module 4 — Storage
-*2 Hours | Exam Weight: 10%*
+ Exam Weight: 10%*
 
 ### Theory
 - 4.1 PersistentVolumes & PersistentVolumeClaims
@@ -82,7 +72,7 @@
 ---
 
 ##  Module 5 — Troubleshooting 
-*6 Hours | Exam Weight: 30% — Highest Priority*
+Exam Weight: 30% — Highest Priority*
 
 ### Theory
 - 5.1 Troubleshooting Methodology — Cluster → Node → Pod
@@ -102,4 +92,4 @@
 
 ---
 
-*Exam is 100% hands-on — 2 hours, ~15–20 tasks. Practice speed over perfection.* 🚀
+*Exam is 100% hands-on — 2 hours, ~15–20 tasks. Practice speed over perfection.
